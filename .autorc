@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "PedroVic12",
+  "repo": "container-uzjivk",
+  "name": "PedroVic12",
+  "email": "pedrovictor.rveras12@gmail.com",
+}
